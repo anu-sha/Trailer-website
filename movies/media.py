@@ -1,5 +1,5 @@
 class Movie():
-    """This class provides a way to store movie related information such as the tile, brief storyline
+    """This class provides a way to store movie related information such as the tile, storyline
          poster url and trailer url"""
     
     """The movie class initializer accepts the movie tile
