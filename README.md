@@ -1,4 +1,4 @@
-# Trailer-website
+# Movie Trailer-website
 Movie trailer website using Python 
 
 The project contains the following files
@@ -10,7 +10,7 @@ The project contains the following files
 
 #To run this project
 
-1. Download the files in the movie folder to your local drive
-2. Make sure python is installed on your machine
+1. Download the files in the movie folder to your local drive.
+2. Make sure python is installed on your machine.
 3. Run the movie_trailers.py file to view the trailer website.
-4. You can use the fave_trailers.html file to view a sample of the generated webpage.
+4. Alternatively you can open the fave_trailers.html file to view a sample of the generated webpage.
