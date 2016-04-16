@@ -34,7 +34,7 @@ athadu=media.Movie("Athadu",
                    "https://upload.wikimedia.org/wikipedia/en/e/ee/Athadu_Poster.jpg",
                    "https://www.youtube.com/watch?v=zWR28TzH1Fs")
 
-#yannai arindhaal movie object
+#yennai arindhaal movie object
 yennai=media.Movie("Yennai Arindhaal",
                    "The story of a cop",
                    "https://upload.wikimedia.org/wikipedia/en/4/4d/Yennai_Arindhaal.jpg",
@@ -43,7 +43,7 @@ yennai=media.Movie("Yennai Arindhaal",
 #adding all movie objects to a list
 movies=[baahubali,bloredays,oshana,threeidiots,athadu,yennai]
 
-#calling the open movies page method that takes the movie objects to generate the trailer web page
+#calling the open movies page method in fave_trailers that takes the movie objects list to generate the trailer web page
 fave_trailers.open_movies_page(movies)
 
 
