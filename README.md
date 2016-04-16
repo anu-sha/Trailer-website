@@ -12,4 +12,4 @@ The project contains the following files
 
 1. Download the files in the movie folder to your local drive.
 2. Make sure python is installed on your machine.
-3. Run the movie_trailers.py file to view the trailer website or open the  fave_trailers.html file to view a sample of the generated webpage.
+3. Run the movie_trailers.py file to view the trailer website or open the  fave_trailers.html in a browser to view a sample of the generated webpage.
